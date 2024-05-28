@@ -1,0 +1,1245 @@
+{
+    "paises": [
+      {
+        "id": 1,
+        "nombre": "Canadá",
+        "codigo_alfa2": "ca",
+        "codigo_alfa3": "can",
+        "codigo_numerico": "124",
+        "codigo_pais": "1",
+        "superficie_km2": 9984670,
+        "bandera": "https://flagcdn.com/ca.svg"
+      },
+      {
+        "id": 2,
+        "nombre": "Estados Unidos",
+        "codigo_alfa2": "us",
+        "codigo_alfa3": "usa",
+        "codigo_numerico": "840",
+        "codigo_pais": "1",
+        "superficie_km2": 9826675,
+        "bandera": "https://flagcdn.com/us.svg"
+      },
+      {
+        "id": 3,
+        "nombre": "México",
+        "codigo_alfa2": "mx",
+        "codigo_alfa3": "mex",
+        "codigo_numerico": "484",
+        "codigo_pais": "52",
+        "superficie_km2": 1964375,
+        "bandera": "https://flagcdn.com/mx.svg"
+      },
+      {
+        "id": 4,
+        "nombre": "Guatemala",
+        "codigo_alfa2": "gt",
+        "codigo_alfa3": "gtm",
+        "codigo_numerico": "320",
+        "codigo_pais": "502",
+        "superficie_km2": 108889,
+        "bandera": "https://flagcdn.com/gt.svg"
+      },
+      {
+        "id": 5,
+        "nombre": "Belice",
+        "codigo_alfa2": "bz",
+        "codigo_alfa3": "blz",
+        "codigo_numerico": "084",
+        "codigo_pais": "501",
+        "superficie_km2": 22966,
+        "bandera": "https://flagcdn.com/bz.svg"
+      },
+      {
+        "id": 6,
+        "nombre": "El Salvador",
+        "codigo_alfa2": "sv",
+        "codigo_alfa3": "slv",
+        "codigo_numerico": "222",
+        "codigo_pais": "503",
+        "superficie_km2": 21041,
+        "bandera": "https://flagcdn.com/sv.svg"
+      },
+      {
+        "id": 7,
+        "nombre": "Honduras",
+        "codigo_alfa2": "hn",
+        "codigo_alfa3": "hnd",
+        "codigo_numerico": "340",
+        "codigo_pais": "504",
+        "superficie_km2": 112492,
+        "bandera": "https://flagcdn.com/hn.svg"
+      },
+      {
+        "id": 8,
+        "nombre": "Nicaragua",
+        "codigo_alfa2": "ni",
+        "codigo_alfa3": "nic",
+        "codigo_numerico": "558",
+        "codigo_pais": "505",
+        "superficie_km2": 130373,
+        "bandera": "https://flagcdn.com/ni.svg"
+      },
+      {
+        "id": 9,
+        "nombre": "Costa Rica",
+        "codigo_alfa2": "cr",
+        "codigo_alfa3": "cri",
+        "codigo_numerico": "188",
+        "codigo_pais": "506",
+        "superficie_km2": 51100,
+        "bandera": "https://flagcdn.com/cr.svg"
+      },
+      {
+        "id": 10,
+        "nombre": "Panamá",
+        "codigo_alfa2": "pa",
+        "codigo_alfa3": "pan",
+        "codigo_numerico": "591",
+        "codigo_pais": "507",
+        "superficie_km2": 75417,
+        "bandera": "https://flagcdn.com/pa.svg"
+      },
+      {
+        "id": 11,
+        "nombre": "Cuba",
+        "codigo_alfa2": "cu",
+        "codigo_alfa3": "cub",
+        "codigo_numerico": "192",
+        "codigo_pais": "53",
+        "superficie_km2": 110860,
+        "bandera": "https://flagcdn.com/cu.svg"
+      },
+      {
+        "id": 12,
+        "nombre": "Haití",
+        "codigo_alfa2": "ht",
+        "codigo_alfa3": "hti",
+        "codigo_numerico": "332",
+        "codigo_pais": "509",
+        "superficie_km2": 27750,
+        "bandera": "https://flagcdn.com/ht.svg"
+      },
+      {
+        "id": 13,
+        "nombre": "República Dominicana",
+        "codigo_alfa2": "do",
+        "codigo_alfa3": "dom",
+        "codigo_numerico": "214",
+        "codigo_pais": "1",
+        "superficie_km2": 48671,
+        "bandera": "https://flagcdn.com/do.svg"
+      },
+      {
+        "id": 14,
+        "nombre": "Jamaica",
+        "codigo_alfa2": "jm",
+        "codigo_alfa3": "jam",
+        "codigo_numerico": "388",
+        "codigo_pais": "1",
+        "superficie_km2": 10991,
+        "bandera": "https://flagcdn.com/jm.svg"
+      },
+      {
+        "id": 15,
+        "nombre": "Trinidad y Tobago",
+        "codigo_alfa2": "tt",
+        "codigo_alfa3": "tto",
+        "codigo_numerico": "780",
+        "codigo_pais": "1",
+        "superficie_km2": 5130,
+        "bandera": "https://flagcdn.com/tt.svg"
+      },
+      {
+        "id": 16,
+        "nombre": "Bahamas",
+        "codigo_alfa2": "bs",
+        "codigo_alfa3": "bhs",
+        "codigo_numerico": "044",
+        "codigo_pais": "1",
+        "superficie_km2": 13940,
+        "bandera": "https://flagcdn.com/bs.svg"
+      },
+      {
+        "id": 17,
+        "nombre": "Barbados",
+        "codigo_alfa2": "bb",
+        "codigo_alfa3": "brb",
+        "codigo_numerico": "052",
+        "codigo_pais": "1",
+        "superficie_km2": 430,
+        "bandera": "https://flagcdn.com/bb.svg"
+      },
+      {
+        "id": 18,
+        "nombre": "San Vicente y las Granadinas",
+        "codigo_alfa2": "vc",
+        "codigo_alfa3": "vct",
+        "codigo_numerico": "670",
+        "codigo_pais": "1",
+        "superficie_km2": 389,
+        "bandera": "https://flagcdn.com/vc.svg"
+      },
+      {
+        "id": 19,
+        "nombre": "Antigua y Barbuda",
+        "codigo_alfa2": "ag",
+        "codigo_alfa3": "atg",
+        "codigo_numerico": "028",
+        "codigo_pais": "1",
+        "superficie_km2": 442,
+        "bandera": "https://flagcdn.com/ag.svg"
+      },
+      {
+        "id": 20,
+        "nombre": "Santa Lucía",
+        "codigo_alfa2": "lc",
+        "codigo_alfa3": "lca",
+        "codigo_numerico": "662",
+        "codigo_pais": "1",
+        "superficie_km2": 616,
+        "bandera": "https://flagcdn.com/lc.svg"
+      },
+      {
+        "id": 21,
+        "nombre": "Granada",
+        "codigo_alfa2": "gd",
+        "codigo_alfa3": "grd",
+        "codigo_numerico": "308",
+        "codigo_pais": "1",
+        "superficie_km2": 344,
+        "bandera": "https://flagcdn.com/gd.svg"
+      },
+      {
+        "id": 22,
+        "nombre": "Dominica",
+        "codigo_alfa2": "dm",
+        "codigo_alfa3": "dma",
+        "codigo_numerico": "212",
+        "codigo_pais": "1",
+        "superficie_km2": 751,
+        "bandera": "https://flagcdn.com/dm.svg"
+      },
+      {
+        "id": 23,
+        "nombre": "San Cristóbal y Nieves",
+        "codigo_alfa2": "kn",
+        "codigo_alfa3": "kna",
+        "codigo_numerico": "659",
+        "codigo_pais": "1",
+        "superficie_km2": 261,
+        "bandera": "https://flagcdn.com/kn.svg"
+      },
+      {
+        "id": 24,
+        "nombre": "Argentina",
+        "codigo_alfa2": "ar",
+        "codigo_alfa3": "arg",
+        "codigo_numerico": "032",
+        "codigo_pais": "54",
+        "superficie_km2": 2780400,
+        "bandera": "https://flagcdn.com/ar.svg"
+      },
+      {
+        "id": 25,
+        "nombre": "Brasil",
+        "codigo_alfa2": "br",
+        "codigo_alfa3": "bra",
+        "codigo_numerico": "076",
+        "codigo_pais": "55",
+        "superficie_km2": 8515767,
+        "bandera": "https://flagcdn.com/br.svg"
+      },
+      {
+        "id": 26,
+        "nombre": "Colombia",
+        "codigo_alfa2": "co",
+        "codigo_alfa3": "col",
+        "codigo_numerico": "170",
+        "codigo_pais": "57",
+        "superficie_km2": 1141748,
+        "bandera": "https://flagcdn.com/co.svg"
+      },
+      {
+        "id": 27,
+        "nombre": "Venezuela",
+        "codigo_alfa2": "ve",
+        "codigo_alfa3": "ven",
+        "codigo_numerico": "862",
+        "codigo_pais": "58",
+        "superficie_km2": 916445,
+        "bandera": "https://flagcdn.com/ve.svg"
+      },
+      {
+        "id": 28,
+        "nombre": "Ecuador",
+        "codigo_alfa2": "ec",
+        "codigo_alfa3": "ecu",
+        "codigo_numerico": "218",
+        "codigo_pais": "593",
+        "superficie_km2": 276841,
+        "bandera": "https://flagcdn.com/ec.svg"
+      },
+      {
+        "id": 29,
+        "nombre": "Perú",
+        "codigo_alfa2": "pe",
+        "codigo_alfa3": "per",
+        "codigo_numerico": "604",
+        "codigo_pais": "51",
+        "superficie_km2": 1285216,
+        "bandera": "https://flagcdn.com/pe.svg"
+      },
+      {
+        "id": 30,
+        "nombre": "Bolivia",
+        "codigo_alfa2": "bo",
+        "codigo_alfa3": "bol",
+        "codigo_numerico": "068",
+        "codigo_pais": "591",
+        "superficie_km2": 1098581,
+        "bandera": "https://flagcdn.com/bo.svg"
+      },
+      {
+        "id": 31,
+        "nombre": "Paraguay",
+        "codigo_alfa2": "py",
+        "codigo_alfa3": "pry",
+        "codigo_numerico": "600",
+        "codigo_pais": "595",
+        "superficie_km2": 406752,
+        "bandera": "https://flagcdn.com/py.svg"
+      },
+      {
+        "id": 32,
+        "nombre": "Chile",
+        "codigo_alfa2": "cl",
+        "codigo_alfa3": "chl",
+        "codigo_numerico": "152",
+        "codigo_pais": "56",
+        "superficie_km2": 756102,
+        "bandera": "https://flagcdn.com/cl.svg"
+      },
+      {
+        "id": 33,
+        "nombre": "Uruguay",
+        "codigo_alfa2": "uy",
+        "codigo_alfa3": "ury",
+        "codigo_numerico": "858",
+        "codigo_pais": "598",
+        "superficie_km2": 181034,
+        "bandera": "https://flagcdn.com/uy.svg"
+      },
+      {
+        "id": 34,
+        "nombre": "Guyana",
+        "codigo_alfa2": "gy",
+        "codigo_alfa3": "guy",
+        "codigo_numerico": "328",
+        "codigo_pais": "592",
+        "superficie_km2": 214969,
+        "bandera": "https://flagcdn.com/gy.svg"
+      },
+      {
+        "id": 35,
+        "nombre": "Surinam",
+        "codigo_alfa2": "sr",
+        "codigo_alfa3": "sur",
+        "codigo_numerico": "740",
+        "codigo_pais": "597",
+        "superficie_km2": 163820,
+        "bandera": "https://flagcdn.com/sr.svg"
+      },
+      {
+        "id": 36,
+        "nombre": "España",
+        "codigo_alfa2": "es",
+        "codigo_alfa3": "esp",
+        "codigo_numerico": "724",
+        "codigo_pais": "34",
+        "superficie_km2": 505990,
+        "bandera": "https://flagcdn.com/es.svg"
+      },
+      {
+        "id": 37,
+        "nombre": "Francia",
+        "codigo_alfa2": "fr",
+        "codigo_alfa3": "fra",
+        "codigo_numerico": "250",
+        "codigo_pais": "33",
+        "superficie_km2": 551695,
+        "bandera": "https://flagcdn.com/fr.svg"
+      },
+      {
+        "id": 38,
+        "nombre": "Alemania",
+        "codigo_alfa2": "de",
+        "codigo_alfa3": "deu",
+        "codigo_numerico": "276",
+        "codigo_pais": "49",
+        "superficie_km2": 357022,
+        "bandera": "https://flagcdn.com/de.svg"
+      },
+      {
+        "id": 39,
+        "nombre": "Italia",
+        "codigo_alfa2": "it",
+        "codigo_alfa3": "ita",
+        "codigo_numerico": "380",
+        "codigo_pais": "39",
+        "superficie_km2": 301340,
+        "bandera": "https://flagcdn.com/it.svg"
+      },
+      {
+        "id": 40,
+        "nombre": "Reino Unido",
+        "codigo_alfa2": "gb",
+        "codigo_alfa3": "gbr",
+        "codigo_numerico": "826",
+        "codigo_pais": "44",
+        "superficie_km2": 242495,
+        "bandera": "https://flagcdn.com/gb.svg"
+      },
+      {
+        "id": 41,
+        "nombre": "Suiza",
+        "codigo_alfa2": "ch",
+        "codigo_alfa3": "che",
+        "codigo_numerico": "756",
+        "codigo_pais": "41",
+        "superficie_km2": 41290,
+        "bandera": "https://flagcdn.com/ch.svg"
+      },
+      {
+        "id": 42,
+        "nombre": "Suecia",
+        "codigo_alfa2": "se",
+        "codigo_alfa3": "swe",
+        "codigo_numerico": "752",
+        "codigo_pais": "46",
+        "superficie_km2": 450295,
+        "bandera": "https://flagcdn.com/se.svg"
+      },
+      {
+        "id": 43,
+        "nombre": "Noruega",
+        "codigo_alfa2": "no",
+        "codigo_alfa3": "nor",
+        "codigo_numerico": "578",
+        "codigo_pais": "47",
+        "superficie_km2": 323802,
+        "bandera": "https://flagcdn.com/no.svg"
+      },
+      {
+        "id": 44,
+        "nombre": "Finlandia",
+        "codigo_alfa2": "fi",
+        "codigo_alfa3": "fin",
+        "codigo_numerico": "246",
+        "codigo_pais": "358",
+        "superficie_km2": 338424,
+        "bandera": "https://flagcdn.com/fi.svg"
+      },
+      {
+        "id": 45,
+        "nombre": "Polonia",
+        "codigo_alfa2": "pl",
+        "codigo_alfa3": "pol",
+        "codigo_numerico": "616",
+        "codigo_pais": "48",
+        "superficie_km2": 312696,
+        "bandera": "https://flagcdn.com/pl.svg"
+      },
+      {
+        "id": 46,
+        "nombre": "Países Bajos",
+        "codigo_alfa2": "nl",
+        "codigo_alfa3": "nld",
+        "codigo_numerico": "528",
+        "codigo_pais": "31",
+        "superficie_km2": 41543,
+        "bandera": "https://flagcdn.com/nl.svg"
+      },
+      {
+        "id": 47,
+        "nombre": "Bélgica",
+        "codigo_alfa2": "be",
+        "codigo_alfa3": "bel",
+        "codigo_numerico": "056",
+        "codigo_pais": "32",
+        "superficie_km2": 30528,
+        "bandera": "https://flagcdn.com/be.svg"
+      },
+      {
+        "id": 48,
+        "nombre": "Grecia",
+        "codigo_alfa2": "gr",
+        "codigo_alfa3": "grc",
+        "codigo_numerico": "300",
+        "codigo_pais": "30",
+        "superficie_km2": 131957,
+        "bandera": "https://flagcdn.com/gr.svg"
+      },
+      {
+        "id": 49,
+        "nombre": "Portugal",
+        "codigo_alfa2": "pt",
+        "codigo_alfa3": "prt",
+        "codigo_numerico": "620",
+        "codigo_pais": "351",
+        "superficie_km2": 92090,
+        "bandera": "https://flagcdn.com/pt.svg"
+      },
+      {
+        "id": 50,
+        "nombre": "Austria",
+        "codigo_alfa2": "at",
+        "codigo_alfa3": "aut",
+        "codigo_numerico": "040",
+        "codigo_pais": "43",
+        "superficie_km2": 83871,
+        "bandera": "https://flagcdn.com/at.svg"
+      },
+      {
+        "id": 51,
+        "nombre": "Hungría",
+        "codigo_alfa2": "hu",
+        "codigo_alfa3": "hun",
+        "codigo_numerico": "348",
+        "codigo_pais": "36",
+        "superficie_km2": 93028,
+        "bandera": "https://flagcdn.com/hu.svg"
+      },
+      {
+        "id": 52,
+        "nombre": "República Checa",
+        "codigo_alfa2": "cz",
+        "codigo_alfa3": "cze",
+        "codigo_numerico": "203",
+        "codigo_pais": "420",
+        "superficie_km2": 78865,
+        "bandera": "https://flagcdn.com/cz.svg"
+      },
+      {
+        "id": 53,
+        "nombre": "Irlanda",
+        "codigo_alfa2": "ie",
+        "codigo_alfa3": "irl",
+        "codigo_numerico": "372",
+        "codigo_pais": "353",
+        "superficie_km2": 70273,
+        "bandera": "https://flagcdn.com/ie.svg"
+      },
+      {
+        "id": 54,
+        "nombre": "Dinamarca",
+        "codigo_alfa2": "dk",
+        "codigo_alfa3": "dnk",
+        "codigo_numerico": "208",
+        "codigo_pais": "45",
+        "superficie_km2": 43094,
+        "bandera": "https://flagcdn.com/dk.svg"
+      },
+      {
+        "id": 55,
+        "nombre": "Suecia",
+        "codigo_alfa2": "se",
+        "codigo_alfa3": "swe",
+        "codigo_numerico": "752",
+        "codigo_pais": "46",
+        "superficie_km2": 450295,
+        "bandera": "https://flagcdn.com/se.svg"
+      },
+      {
+        "id": 56,
+        "nombre": "China",
+        "codigo_alfa2": "cn",
+        "codigo_alfa3": "chn",
+        "codigo_numerico": "156",
+        "codigo_pais": "86",
+        "superficie_km2": 9596960,
+        "bandera": "https://flagcdn.com/cn.svg"
+      },
+      {
+        "id": 57,
+        "nombre": "India",
+        "codigo_alfa2": "in",
+        "codigo_alfa3": "ind",
+        "codigo_numerico": "356",
+        "codigo_pais": "91",
+        "superficie_km2": 3287263,
+        "bandera": "https://flagcdn.com/in.svg"
+      },
+      {
+        "id": 58,
+        "nombre": "Rusia",
+        "codigo_alfa2": "ru",
+        "codigo_alfa3": "rus",
+        "codigo_numerico": "643",
+        "codigo_pais": "7",
+        "superficie_km2": 17098242,
+        "bandera": "https://flagcdn.com/ru.svg"
+      },
+      {
+        "id": 59,
+        "nombre": "Indonesia",
+        "codigo_alfa2": "id",
+        "codigo_alfa3": "idn",
+        "codigo_numerico": "360",
+        "codigo_pais": "62",
+        "superficie_km2": 1904569,
+        "bandera": "https://flagcdn.com/id.svg"
+      },
+      {
+        "id": 60,
+        "nombre": "Pakistán",
+        "codigo_alfa2": "pk",
+        "codigo_alfa3": "pak",
+        "codigo_numerico": "586",
+        "codigo_pais": "92",
+        "superficie_km2": 881913,
+        "bandera": "https://flagcdn.com/pk.svg"
+      },
+      {
+        "id": 61,
+        "nombre": "Bangladés",
+        "codigo_alfa2": "bd",
+        "codigo_alfa3": "bgd",
+        "codigo_numerico": "050",
+        "codigo_pais": "880",
+        "superficie_km2": 147570,
+        "bandera": "https://flagcdn.com/bd.svg"
+      },
+      {
+        "id": 62,
+        "nombre": "Japón",
+        "codigo_alfa2": "jp",
+        "codigo_alfa3": "jpn",
+        "codigo_numerico": "392",
+        "codigo_pais": "81",
+        "superficie_km2": 377975,
+        "bandera": "https://flagcdn.com/jp.svg"
+      },
+      {
+        "id": 63,
+        "nombre": "Filipinas",
+        "codigo_alfa2": "ph",
+        "codigo_alfa3": "phl",
+        "codigo_numerico": "608",
+        "codigo_pais": "63",
+        "superficie_km2": 300000,
+        "bandera": "https://flagcdn.com/ph.svg"
+      },
+      {
+        "id": 64,
+        "nombre": "Vietnam",
+        "codigo_alfa2": "vn",
+        "codigo_alfa3": "vnm",
+        "codigo_numerico": "704",
+        "codigo_pais": "84",
+        "superficie_km2": 331212,
+        "bandera": "https://flagcdn.com/vn.svg"
+      },
+      {
+        "id": 65,
+        "nombre": "Irán",
+        "codigo_alfa2": "ir",
+        "codigo_alfa3": "irn",
+        "codigo_numerico": "364",
+        "codigo_pais": "98",
+        "superficie_km2": 1648195,
+        "bandera": "https://flagcdn.com/ir.svg"
+      },
+      {
+        "id": 66,
+        "nombre": "Turquía",
+        "codigo_alfa2": "tr",
+        "codigo_alfa3": "tur",
+        "codigo_numerico": "792",
+        "codigo_pais": "90",
+        "superficie_km2": 783562,
+        "bandera": "https://flagcdn.com/tr.svg"
+      },
+      {
+        "id": 67,
+        "nombre": "Tailandia",
+        "codigo_alfa2": "th",
+        "codigo_alfa3": "tha",
+        "codigo_numerico": "764",
+        "codigo_pais": "66",
+        "superficie_km2": 513120,
+        "bandera": "https://flagcdn.com/th.svg"
+      },
+      {
+        "id": 68,
+        "nombre": "Myanmar",
+        "codigo_alfa2": "mm",
+        "codigo_alfa3": "mmr",
+        "codigo_numerico": "104",
+        "codigo_pais": "95",
+        "superficie_km2": 676578,
+        "bandera": "https://flagcdn.com/mm.svg"
+      },
+      {
+        "id": 69,
+        "nombre": "Corea del Sur",
+        "codigo_alfa2": "kr",
+        "codigo_alfa3": "kor",
+        "codigo_numerico": "410",
+        "codigo_pais": "82",
+        "superficie_km2": 100210,
+        "bandera": "https://flagcdn.com/kr.svg"
+      },
+      {
+        "id": 70,
+        "nombre": "Irak",
+        "codigo_alfa2": "iq",
+        "codigo_alfa3": "irq",
+        "codigo_numerico": "368",
+        "codigo_pais": "964",
+        "superficie_km2": 438317,
+        "bandera": "https://flagcdn.com/iq.svg"
+      },
+      {
+        "id": 71,
+        "nombre": "Arabia Saudita",
+        "codigo_alfa2": "sa",
+        "codigo_alfa3": "sau",
+        "codigo_numerico": "682",
+        "codigo_pais": "966",
+        "superficie_km2": 2149690,
+        "bandera": "https://flagcdn.com/sa.svg"
+      },
+      {
+        "id": 72,
+        "nombre": "Uzbekistán",
+        "codigo_alfa2": "uz",
+        "codigo_alfa3": "uzb",
+        "codigo_numerico": "860",
+        "codigo_pais": "998",
+        "superficie_km2": 448978,
+        "bandera": "https://flagcdn.com/uz.svg"
+      },
+      {
+        "id": 73,
+        "nombre": "Malasia",
+        "codigo_alfa2": "my",
+        "codigo_alfa3": "mys",
+        "codigo_numerico": "458",
+        "codigo_pais": "60",
+        "superficie_km2": 330803,
+        "bandera": "https://flagcdn.com/my.svg"
+      },
+      {
+        "id": 74,
+        "nombre": "Afganistán",
+        "codigo_alfa2": "af",
+        "codigo_alfa3": "afg",
+        "codigo_numerico": "004",
+        "codigo_pais": "93",
+        "superficie_km2": 652864,
+        "bandera": "https://flagcdn.com/af.svg"
+      },
+      {
+        "id": 75,
+        "nombre": "Yemen",
+        "codigo_alfa2": "ye",
+        "codigo_alfa3": "yem",
+        "codigo_numerico": "887",
+        "codigo_pais": "967",
+        "superficie_km2": 527968,
+        "bandera": "https://flagcdn.com/ye.svg"
+      },
+      {
+        "id": 76,
+        "nombre": "Nigeria",
+        "codigo_alfa2": "ng",
+        "codigo_alfa3": "nga",
+        "codigo_numerico": "566",
+        "codigo_pais": "234",
+        "superficie_km2": 923768,
+        "bandera": "https://flagcdn.com/ng.svg"
+      },
+      {
+        "id": 77,
+        "nombre": "Etiopía",
+        "codigo_alfa2": "et",
+        "codigo_alfa3": "eth",
+        "codigo_numerico": "231",
+        "codigo_pais": "251",
+        "superficie_km2": 1104300,
+        "bandera": "https://flagcdn.com/et.svg"
+      },
+      {
+        "id": 78,
+        "nombre": "Egipto",
+        "codigo_alfa2": "eg",
+        "codigo_alfa3": "egy",
+        "codigo_numerico": "818",
+        "codigo_pais": "20",
+        "superficie_km2": 1002450,
+        "bandera": "https://flagcdn.com/eg.svg"
+      },
+      {
+        "id": 79,
+        "nombre": "República Democrática del Congo",
+        "codigo_alfa2": "cd",
+        "codigo_alfa3": "cod",
+        "codigo_numerico": "180",
+        "codigo_pais": "243",
+        "superficie_km2": 2344858,
+        "bandera": "https://flagcdn.com/cd.svg"
+      },
+      {
+        "id": 80,
+        "nombre": "Tanzania",
+        "codigo_alfa2": "tz",
+        "codigo_alfa3": "tza",
+        "codigo_numerico": "834",
+        "codigo_pais": "255",
+        "superficie_km2": 947303,
+        "bandera": "https://flagcdn.com/tz.svg"
+      },
+      {
+        "id": 81,
+        "nombre": "Sudáfrica",
+        "codigo_alfa2": "za",
+        "codigo_alfa3": "zaf",
+        "codigo_numerico": "710",
+        "codigo_pais": "27",
+        "superficie_km2": 1221037,
+        "bandera": "https://flagcdn.com/za.svg"
+      },
+      {
+        "id": 82,
+        "nombre": "Kenia",
+        "codigo_alfa2": "ke",
+        "codigo_alfa3": "ken",
+        "codigo_numerico": "404",
+        "codigo_pais": "254",
+        "superficie_km2": 580367,
+        "bandera": "https://flagcdn.com/ke.svg"
+      },
+      {
+        "id": 83,
+        "nombre": "Uganda",
+        "codigo_alfa2": "ug",
+        "codigo_alfa3": "uga",
+        "codigo_numerico": "800",
+        "codigo_pais": "256",
+        "superficie_km2": 241550,
+        "bandera": "https://flagcdn.com/ug.svg"
+      },
+      {
+        "id": 84,
+        "nombre": "Argelia",
+        "codigo_alfa2": "dz",
+        "codigo_alfa3": "dza",
+        "codigo_numerico": "012",
+        "codigo_pais": "213",
+        "superficie_km2": 2381741,
+        "bandera": "https://flagcdn.com/dz.svg"
+      },
+      {
+        "id": 85,
+        "nombre": "Sudán",
+        "codigo_alfa2": "sd",
+        "codigo_alfa3": "sdn",
+        "codigo_numerico": "729",
+        "codigo_pais": "249",
+        "superficie_km2": 1886068,
+        "bandera": "https://flagcdn.com/sd.svg"
+      },
+      {
+        "id": 86,
+        "nombre": "Marruecos",
+        "codigo_alfa2": "ma",
+        "codigo_alfa3": "mar",
+        "codigo_numerico": "504",
+        "codigo_pais": "212",
+        "superficie_km2": 446550,
+        "bandera": "https://flagcdn.com/ma.svg"
+      },
+      {
+        "id": 87,
+        "nombre": "Angola",
+        "codigo_alfa2": "ao",
+        "codigo_alfa3": "ago",
+        "codigo_numerico": "024",
+        "codigo_pais": "244",
+        "superficie_km2": 1246700,
+        "bandera": "https://flagcdn.com/ao.svg"
+      },
+      {
+        "id": 88,
+        "nombre": "Mozambique",
+        "codigo_alfa2": "mz",
+        "codigo_alfa3": "moz",
+        "codigo_numerico": "508",
+        "codigo_pais": "258",
+        "superficie_km2": 801590,
+        "bandera": "https://flagcdn.com/mz.svg"
+      },
+      {
+        "id": 89,
+        "nombre": "Ghana",
+        "codigo_alfa2": "gh",
+        "codigo_alfa3": "gha",
+        "codigo_numerico": "288",
+        "codigo_pais": "233",
+        "superficie_km2": 238533,
+        "bandera": "https://flagcdn.com/gh.svg"
+      },
+      {
+        "id": 90,
+        "nombre": "Madagascar",
+        "codigo_alfa2": "mg",
+        "codigo_alfa3": "mdg",
+        "codigo_numerico": "450",
+        "codigo_pais": "261",
+        "superficie_km2": 587041,
+        "bandera": "https://flagcdn.com/mg.svg"
+      },
+      {
+        "id": 91,
+        "nombre": "Camerún",
+        "codigo_alfa2": "cm",
+        "codigo_alfa3": "cmr",
+        "codigo_numerico": "120",
+        "codigo_pais": "237",
+        "superficie_km2": 475442,
+        "bandera": "https://flagcdn.com/cm.svg"
+      },
+      {
+        "id": 92,
+        "nombre": "Costa de Marfil",
+        "codigo_alfa2": "ci",
+        "codigo_alfa3": "civ",
+        "codigo_numerico": "384",
+        "codigo_pais": "225",
+        "superficie_km2": 322463,
+        "bandera": "https://flagcdn.com/ci.svg"
+      },
+      {
+        "id": 93,
+        "nombre": "Níger",
+        "codigo_alfa2": "ne",
+        "codigo_alfa3": "ner",
+        "codigo_numerico": "562",
+        "codigo_pais": "227",
+        "superficie_km2": 1267000,
+        "bandera": "https://flagcdn.com/ne.svg"
+      },
+      {
+        "id": 94,
+        "nombre": "Burkina Faso",
+        "codigo_alfa2": "bf",
+        "codigo_alfa3": "bfa",
+        "codigo_numerico": "854",
+        "codigo_pais": "226",
+        "superficie_km2": 274200,
+        "bandera": "https://flagcdn.com/bf.svg"
+      },
+      {
+        "id": 95,
+        "nombre": "Mali",
+        "codigo_alfa2": "ml",
+        "codigo_alfa3": "mli",
+        "codigo_numerico": "466",
+        "codigo_pais": "223",
+        "superficie_km2": 1240192,
+        "bandera": "https://flagcdn.com/ml.svg"
+      },
+      {
+        "id": 96,
+        "nombre": "Malawi",
+        "codigo_alfa2": "mw",
+        "codigo_alfa3": "mwi",
+        "codigo_numerico": "454",
+        "codigo_pais": "265",
+        "superficie_km2": 118484,
+        "bandera": "https://flagcdn.com/mw.svg"
+      },
+      {
+        "id": 97,
+        "nombre": "Zambia",
+        "codigo_alfa2": "zm",
+        "codigo_alfa3": "zmb",
+        "codigo_numerico": "894",
+        "codigo_pais": "260",
+        "superficie_km2": 752612,
+        "bandera": "https://flagcdn.com/zm.svg"
+      },
+      {
+        "id": 98,
+        "nombre": "Zimbabue",
+        "codigo_alfa2": "zw",
+        "codigo_alfa3": "zwe",
+        "codigo_numerico": "716",
+        "codigo_pais": "263",
+        "superficie_km2": 390757,
+        "bandera": "https://flagcdn.com/zw.svg"
+      },
+      {
+        "id": 99,
+        "nombre": "Túnez",
+        "codigo_alfa2": "tn",
+        "codigo_alfa3": "tun",
+        "codigo_numerico": "788",
+        "codigo_pais": "216",
+        "superficie_km2": 163610,
+        "bandera": "https://flagcdn.com/tn.svg"
+      },
+      {
+        "id": 100,
+        "nombre": "Mauritania",
+        "codigo_alfa2": "mr",
+        "codigo_alfa3": "mrt",
+        "codigo_numerico": "478",
+        "codigo_pais": "222",
+        "superficie_km2": 1030700,
+        "bandera": "https://flagcdn.com/mr.svg"
+      },
+      {
+        "id": 101,
+        "nombre": "Australia",
+        "codigo_alfa2": "au",
+        "codigo_alfa3": "aus",
+        "codigo_numerico": "036",
+        "codigo_pais": "61",
+        "superficie_km2": 7692024,
+        "bandera": "https://flagcdn.com/au.svg"
+      },
+      {
+        "id": 102,
+        "nombre": "Papúa Nueva Guinea",
+        "codigo_alfa2": "pg",
+        "codigo_alfa3": "png",
+        "codigo_numerico": "598",
+        "codigo_pais": "675",
+        "superficie_km2": 462840,
+        "bandera": "https://flagcdn.com/pg.svg"
+      },
+      {
+        "id": 103,
+        "nombre": "Nueva Zelanda",
+        "codigo_alfa2": "nz",
+        "codigo_alfa3": "nzl",
+        "codigo_numerico": "554",
+        "codigo_pais": "64",
+        "superficie_km2": 270467,
+        "bandera": "https://flagcdn.com/nz.svg"
+      },
+      {
+        "id": 104,
+        "nombre": "Fiyi",
+        "codigo_alfa2": "fj",
+        "codigo_alfa3": "fji",
+        "codigo_numerico": "242",
+        "codigo_pais": "679",
+        "superficie_km2": 18274,
+        "bandera": "https://flagcdn.com/fj.svg"
+      },
+      {
+        "id": 105,
+        "nombre": "Timor Oriental",
+        "codigo_alfa2": "tl",
+        "codigo_alfa3": "tls",
+        "codigo_numerico": "626",
+        "codigo_pais": "670",
+        "superficie_km2": 14874,
+        "bandera": "https://flagcdn.com/tl.svg"
+      },
+      {
+        "id": 106,
+        "nombre": "Islas Salomón",
+        "codigo_alfa2": "sb",
+        "codigo_alfa3": "slb",
+        "codigo_numerico": "090",
+        "codigo_pais": "677",
+        "superficie_km2": 28896,
+        "bandera": "https://flagcdn.com/sb.svg"
+      },
+      {
+        "id": 107,
+        "nombre": "Vanuatu",
+        "codigo_alfa2": "vu",
+        "codigo_alfa3": "vut",
+        "codigo_numerico": "548",
+        "codigo_pais": "678",
+        "superficie_km2": 12189,
+        "bandera": "https://flagcdn.com/vu.svg"
+      },
+      {
+        "id": 108,
+        "nombre": "Samoa",
+        "codigo_alfa2": "ws",
+        "codigo_alfa3": "wsm",
+        "codigo_numerico": "882",
+        "codigo_pais": "685",
+        "superficie_km2": 2842,
+        "bandera": "https://flagcdn.com/ws.svg"
+      },
+      {
+        "id": 109,
+        "nombre": "Kiribati",
+        "codigo_alfa2": "ki",
+        "codigo_alfa3": "kir",
+        "codigo_numerico": "296",
+        "codigo_pais": "686",
+        "superficie_km2": 811,
+        "bandera": "https://flagcdn.com/ki.svg"
+      },
+      {
+        "id": 110,
+        "nombre": "Tonga",
+        "codigo_alfa2": "to",
+        "codigo_alfa3": "ton",
+        "codigo_numerico": "776",
+        "codigo_pais": "676",
+        "superficie_km2": 747,
+        "bandera": "https://flagcdn.com/to.svg"
+      },
+      {
+        "id": 111,
+        "nombre": "Micronesia",
+        "codigo_alfa2": "fm",
+        "codigo_alfa3": "fsm",
+        "codigo_numerico": "583",
+        "codigo_pais": "691",
+        "superficie_km2": 702,
+        "bandera": "https://flagcdn.com/fm.svg"
+      },
+      {
+        "id": 112,
+        "nombre": "Islas Marshall",
+        "codigo_alfa2": "mh",
+        "codigo_alfa3": "mhl",
+        "codigo_numerico": "584",
+        "codigo_pais": "692",
+        "superficie_km2": 181,
+        "bandera": "https://flagcdn.com/mh.svg"
+      },
+      {
+        "id": 113,
+        "nombre": "Palau",
+        "codigo_alfa2": "pw",
+        "codigo_alfa3": "plw",
+        "codigo_numerico": "585",
+        "codigo_pais": "680",
+        "superficie_km2": 459,
+        "bandera": "https://flagcdn.com/pw.svg"
+      },
+      {
+        "id": 114,
+        "nombre": "Nauru",
+        "codigo_alfa2": "nr",
+        "codigo_alfa3": "nru",
+        "codigo_numerico": "520",
+        "codigo_pais": "674",
+        "superficie_km2": 21,
+        "bandera": "https://flagcdn.com/nr.svg"
+      },
+      {
+        "id": 115,
+        "nombre": "Tuvalu",
+        "codigo_alfa2": "tv",
+        "codigo_alfa3": "tuv",
+        "codigo_numerico": "798",
+        "codigo_pais": "688",
+        "superficie_km2": 26,
+        "bandera": "https://flagcdn.com/tv.svg"
+      },
+      {
+        "id": 116,
+        "nombre": "Tonga",
+        "codigo_alfa2": "to",
+        "codigo_alfa3": "ton",
+        "codigo_numerico": "776",
+        "codigo_pais": "676",
+        "superficie_km2": 747,
+        "bandera": "https://flagcdn.com/to.svg"
+      },
+      {
+        "id": 117,
+        "nombre": "Federación de Estados de Micronesia",
+        "codigo_alfa2": "fm",
+        "codigo_alfa3": "fsm",
+        "codigo_numerico": "583",
+        "codigo_pais": "691",
+        "superficie_km2": 702,
+        "bandera": "https://flagcdn.com/fm.svg"
+      },
+      {
+        "id": 118,
+        "nombre": "Islas Cook",
+        "codigo_alfa2": "ck",
+        "codigo_alfa3": "cok",
+        "codigo_numerico": "184",
+        "codigo_pais": "682",
+        "superficie_km2": 236,
+        "bandera": "https://flagcdn.com/ck.svg"
+      },
+      {
+        "id": 119,
+        "nombre": "Niue",
+        "codigo_alfa2": "nu",
+        "codigo_alfa3": "niu",
+        "codigo_numerico": "570",
+        "codigo_pais": "683",
+        "superficie_km2": 261,
+        "bandera": "https://flagcdn.com/nu.svg"
+      },
+      {
+        "id": 120,
+        "nombre": "Tokelau",
+        "codigo_alfa2": "tk",
+        "codigo_alfa3": "tkl",
+        "codigo_numerico": "772",
+        "codigo_pais": "690",
+        "superficie_km2": 12,
+        "bandera": "https://flagcdn.com/tk.svg"
+      },
+      {
+        "id": 121,
+        "nombre": "Pitcairn",
+        "codigo_alfa2": "pn",
+        "codigo_alfa3": "pcn",
+        "codigo_numerico": "612",
+        "codigo_pais": "870",
+        "superficie_km2": 47,
+        "bandera": "https://flagcdn.com/pn.svg"
+      },
+      {
+        "id": 122,
+        "nombre": "Islas Heard y McDonald",
+        "codigo_alfa2": "hm",
+        "codigo_alfa3": "hmd",
+        "codigo_numerico": "334",
+        "codigo_pais": "672",
+        "superficie_km2": 412,
+        "bandera": "https://flagcdn.com/hm.svg"
+      },
+      {
+        "id": 123,
+        "nombre": "Territorio Antártico Australiano",
+        "codigo_alfa2": "aq",
+        "codigo_alfa3": "ata",
+        "codigo_numerico": "010",
+        "codigo_pais": "",
+        "superficie_km2": 5500000,
+        "bandera": "https://flagcdn.com/aq.svg"
+      },
+      {
+        "id": 124,
+        "nombre": "Territorio Británico del Océano Índico",
+        "codigo_alfa2": "io",
+        "codigo_alfa3": "iot",
+        "codigo_numerico": "086",
+        "codigo_pais": "",
+        "superficie_km2": 54400,
+        "bandera": "https://flagcdn.com/io.svg"
+      }
+    ]
+  }
+  
