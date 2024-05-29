@@ -3,4 +3,6 @@ JSON con información de los paises del mundo
 
 ## Muestra del consumos el JSON
 
-![](imagnes/img1.jpg)
+![img1.jpg](imagenes/img1.png)
+
+![img2.jpg](imagenes/img2.png)
