@@ -10,3 +10,4 @@ JSON con información de los paises del mundo
 ### Video de muestra:
 https://github.com/juanmedina100/paises/assets/92758289/25b08213-6d7d-4b92-a2f8-043e163bc5b8
 
+# Aplicación hecha en kotlin para consumir la API 
